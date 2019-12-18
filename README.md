@@ -1,6 +1,6 @@
 # Hi there!  :)
 
-I'm doing my Masters in Mechanical Engineering (research about convolutional neural networks), I teach machine learning introduction as part of the university's extension program and I also do freelance work in Data Science, some of my consulting projects:
+Some of my consulting projects:
 
 ```
 -> Grid optimization of university disciplines using natural language processing
@@ -38,12 +38,3 @@ The methodological strategy was developed with the steps of data collection, ana
 ### Others
 
 You can still check other algorithms, distributed in folders, such as "alice-s-text-analysis" - extracting and processing text using the classic children's book...
-
-## Feel free to contact me :D
-
-* [Linkedin](https://www.linkedin.com/in/rodrigobiasuz/) - My Linkedin Page
-
-* **Tel: 55 54 999437411**
-
-* **Email: rodrigo_biasuz@hotmail.com**
-
